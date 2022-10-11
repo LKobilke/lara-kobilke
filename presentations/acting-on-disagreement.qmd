@@ -1,0 +1,17 @@
+---
+title: 'Acting upon disagreement? The effects of cross-cutting exposure on political participation in offline, online, and traditional media communication environments'
+subtitle: "Digital Democracy Workshop"
+date: '2020-11-05'
+author: L. Kobilke
+# image: drag-glamazons.JPG
+categories: ['presentations']
+description: 'Zurich, Switzerland (virtual)'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+
+

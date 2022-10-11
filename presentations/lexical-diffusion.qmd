@@ -1,0 +1,17 @@
+---
+title: 'Towards a model of lexical diffusion in social media networks: A case study of the dissemination of the term “lying press” in Germany'
+subtitle: "69th Annual Conference of the International Communication Association (ICA)"
+date: '2019-05-25'
+author: L. Kobilke
+# image: drag-glamazons.JPG
+categories: ['presentations']
+description: 'Washington, DC, USA'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+
+

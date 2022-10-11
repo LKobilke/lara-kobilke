@@ -1,0 +1,34 @@
+[
+  {
+    "listing": "/Publications.html",
+    "items": [
+      "/publications/books/widerspruch-als-politische-kraft.html",
+      "/publications/peer-reviewed/viewpoint-diversity.html",
+      "/publications/chapters/drag-glamazons.html",
+      "/publications/peer-reviewed/momo-challenge.html",
+      "/publications/reports/elektronische-medien.html",
+      "/publications/peer-reviewed/functional-domains.html",
+      "/publications/reports/germanwings.html"
+    ]
+  },
+  {
+    "listing": "/Presentations.html",
+    "items": [
+      "/presentations/terror-or-no-terror.html",
+      "/presentations/reporting-SML.html",
+      "/presentations/alternative-media-use.html",
+      "/presentations/cross-cutting-exposure.html",
+      "/presentations/diversity-exposure.html",
+      "/presentations/acting-on-disagreement.html",
+      "/presentations/drag-glamazons.html",
+      "/presentations/popoulist-participation.html",
+      "/presentations/momo-nono.html",
+      "/presentations/echokammer.html",
+      "/presentations/momo-challenge.html",
+      "/presentations/lexical-diffusion.html",
+      "/presentations/kontakt-mit-ggt-meinungen.html",
+      "/presentations/patterns-social-media.html",
+      "/presentations/mediatization-of-politics.html"
+    ]
+  }
+]

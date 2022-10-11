@@ -1,0 +1,17 @@
+---
+title: 'Terror or no terror, that is the question. Comparing manual and automated frame analysis of right-wing extremist and Islamist terror attacks in German news media'
+subtitle: "Jahrestagung der Fachgruppe Methoden der DGPuK"
+date: '2022-10-06'
+author: V. Noack, L. Kobilke, M. Mpadanes
+# image: drag-glamazons.JPG
+categories: ['presentations']
+description: 'Munich, Germany'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+
+

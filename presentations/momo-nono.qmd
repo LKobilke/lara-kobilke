@@ -1,0 +1,17 @@
+---
+title: 'Momo is a NoNo - How media depictions of the suicide game Momo Challenge affect their viewers on YouTube'
+subtitle: "European Conference on Health Communication (ECHC)"
+date: '2019-14-11'
+author: L. Kobilke, A. Markiewitz
+# image: drag-glamazons.JPG
+categories: ['presentations']
+description: 'Zurich, Switzerland'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+
+

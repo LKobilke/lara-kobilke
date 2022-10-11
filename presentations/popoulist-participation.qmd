@@ -1,0 +1,17 @@
+---
+title: 'Populist participation? A closer look at the relationship between populist attitudes and political participation in Germany'
+subtitle: "65. Jahrestagung der Deutschen Gesellschaft für Publizistik- und Kommunikationswissenschaft (DGPuK)"
+date: '2020-03-11'
+author: L. Kobilke, T. Zerback
+# image: drag-glamazons.JPG
+categories: ['presentations']
+description: 'Munich, Germany'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+
+

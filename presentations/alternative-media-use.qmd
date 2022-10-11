@@ -1,0 +1,17 @@
+---
+title: 'The relationship between alternative media use and expressive, protest-based, and traditional political participation: A latent growth modeling approach'
+subtitle: "Gemeinsame Jahrestagung der Journalismusforschung (DGPuK), Kommunikation und Politik (DGPuK),\n  Politik und Kommunikation (DVPW) und Politische Kommunikation (SGKM)"
+date: '2022-09-30'
+author: L. Kobilke, T. Zerback
+# image: drag-glamazons.JPG
+categories: ['presentations']
+description: 'Trier, Germany'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+
+

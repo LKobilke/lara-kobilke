@@ -1,0 +1,17 @@
+---
+title: 'Patterns behind social media usage: Comprehending Facebook as a set of features to separate its functional domains'
+subtitle: "67th Annual Conference of the International Communication Association (ICA)"
+date: '2017-05-25'
+author: L. Kobilke, T. Zerback
+# image: drag-glamazons.JPG
+categories: ['presentations']
+description: 'San Diego,CA,USA'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+
+

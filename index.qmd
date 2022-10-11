@@ -1,11 +1,31 @@
 ---
-title: "lara-kobilke"
+title: "Lara Kobilke"
+description: "Political Communication Researcher, LMU Munich"
+image: Photo_Kobilke.jpg
+fontsize: 16pt
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 13em
+  links:
+    - icon: envelope
+      href: mailto:lara.kobilke@ifkw.lmu.de
+    - icon: twitter
+      href: https://twitter.com/LKobilke
+    - icon: google
+      href: https://scholar.google.com/citations?user=WJLj-1sAAAAJ&hl=en
+    - text: ORCiD
+      href: https://orcid.org/0000-0001-6194-4724 
+    - icon: github
+      href: https://github.com/LKobilke
 ---
 
-This is a Quarto website.
+### Welcome!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {#hero-heading}
+My name is Lara Kobilke and I am a political communication researcher at the LMU Munich, Department of Media and Communication.
 
-```{r}
-1 + 1
-```
+My research focuses on explaining the antecedents and consequences of pro-attitudinal and contra-attitudinal opinion exchanges. Over the last years, I've tackled questions such as (1) how often and why some people withdraw into echo chambers, (2) how talk across lines of political difference influences political behaviors, and (3) what role alternative media and psychological dispositions have in this process. Methodologically, my work comprises survey, experimental, and content analytical approaches that build into a mix of advanced quantitative methods (fixed effect models, mixed models, and multilevel SEMs) and computational methods (SML, NA).
+
+Please feel free to learn more about my [professional experience](Experience.qmd), [education](Experience.qmd), [teaching](Experience.qmd), [presentations](Presentations.qmd) and my [publications](Publications.qmd).
+:::

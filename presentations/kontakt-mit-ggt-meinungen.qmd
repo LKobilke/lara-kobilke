@@ -1,0 +1,17 @@
+---
+title: 'Der Kontakt mit gegenteiligen Meinungen in Sozialen Medien: Effekte auf die politische (Online-)Partizipation'
+subtitle: "NapoKo-Kolloquium 18"
+date: '2018-11-15'
+author: L. Kobilke
+# image: drag-glamazons.JPG
+categories: ['presentations']
+description: 'Mainz, Germany'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+
+

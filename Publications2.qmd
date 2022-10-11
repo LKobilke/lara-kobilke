@@ -1,0 +1,54 @@
+---
+title: "Publications"
+
+listing:
+  - id: peer-reviewed
+    fields: [author, date, title, description]
+    contents: "/publications/peer-reviewed/*.qmd"
+    type: table
+    date-format: YYYY
+    field-display-names:
+      author: "Author(s)"
+      title: "Title"
+      date: "Year"
+      description: "Journal"
+    sort:
+      - "date desc"
+      - "title desc"
+      - "description"
+  - id: books
+    fields: [author, date, title, description]
+    contents: "/publications/books/*.qmd"
+    type: table
+    date-format: YYYY
+  - id: chapters
+    fields: [author, date, title, description]
+    contents: "/publications/chapters/*.qmd"
+    type: table
+
+    
+    
+---
+
+## Books
+
+These are my published books.
+
+:::{#books}
+:::
+
+## Peer-reviewed Journal Articles
+
+These are my published books.
+
+:::{#peer-reviewed}
+:::
+
+
+## Chapters in Handbooks & Collections
+
+These are my published books.
+
+
+:::{#chapters}
+:::

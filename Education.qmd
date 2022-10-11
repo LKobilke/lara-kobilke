@@ -1,0 +1,29 @@
+---
+title: "Education"
+image: graduation.PNG
+fontsize: 16pt
+about: 
+  template: solana
+  image-shape: rounded
+  image-width: 13em
+---
+
+```{r, include=TRUE, echo=FALSE}
+library(fontawesome)
+```
+
+::: {#hero-heading}
+
+`r fa(name = "graduation-cap", fill = "lightgrey", height = "1em")` PhD, Communication and Media Research,  
+University of Zurich, Switzerland, 2019-2022
+
+`r fa(name = "graduation-cap", fill = "lightgrey", height = "1em")` MA, Communication Science,  
+LMU Munich, Germany, 2015-2017
+
+`r fa(name = "graduation-cap", fill = "lightgrey", height = "1em")` BA, Communication Science,  
+LMU Munich, Germany, 2011-2015, 
+
+`r fa(name = "graduation-cap", fill = "lightgrey", height = "1em")` BA, German Literature and Law,  
+LMU Munich, Germany, 2011-2014
+
+:::

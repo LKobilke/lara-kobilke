@@ -1,0 +1,27 @@
+---
+title: "Presentations, Talks & Workshops"
+
+listing:
+  id: presentations
+  fields: [author, date, title, subtitle, description]
+  contents: "presentations/*.qmd"
+  type: table
+  categories: true
+  date-format: YYYY
+  field-display-names:
+    author: "Author(s)"
+    title: "Title"
+    date: "Year"
+    description: "Location"
+    subtitle: "Institution"
+  sort:
+    - "category"
+    - "date desc"
+    - "title desc"
+    - "description"
+    
+---
+
+
+:::{#presentations}
+:::

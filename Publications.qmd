@@ -1,0 +1,30 @@
+---
+title: ""
+
+listing:
+    id: publications
+    fields: [author, date, title, description]
+    categories: true
+    contents: "publications/*/*.qmd"
+    type: table
+    table-hover: true
+    date-format: YYYY
+    field-display-names:
+      author: "Author(s)"
+      title: "Title"
+      date: "Year"
+      description: "Published in"
+    sort:
+      - "date desc"
+      - "title desc"
+      - "description"
+    
+---
+
+## Publications ##
+
+Via "categories" you can filter the table for books, peer-reviewed journal articles, and handbook chapters.
+
+:::{#publications}
+:::
+

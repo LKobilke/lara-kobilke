@@ -1,0 +1,17 @@
+---
+title: 'Reporting supervised text analysis for communication science'
+subtitle: "Jahrestagung der Fachgruppe Methoden der DGPuK"
+date: '2022-10-06'
+author: M. V. Reiss, L. Kobilke, A. Stoll
+# image: drag-glamazons.JPG
+categories: ['presentations']
+description: 'Munich, Germany'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+
+

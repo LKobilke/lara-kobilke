@@ -1,0 +1,17 @@
+---
+title: 'Mediatization of politics from a psychological point of view. Exploring media effects on scandalized politicians in a qualitative analysis of two German cases'
+subtitle: "Annual Conference of the International Association for Media and Communication Research (IAMCR)"
+date: '2015-07-15'
+author: L. Kobilke
+# image: drag-glamazons.JPG
+categories: ['presentations']
+description: 'Montreal, Canada'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+
+

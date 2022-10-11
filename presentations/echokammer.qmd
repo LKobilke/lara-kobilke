@@ -1,0 +1,17 @@
+---
+title: 'In der Echokammer? Politische Einstellungen, interpersonale Kommunikation und Mediennutzung als Prädiktoren erlebter Meinungsvielfalt'
+subtitle: "Gemeinsame Jahrestagung der Kommunikation und Politik (DGPuK), Politik und Kommunikation (DVPW) und Politische Kommunikation (SGKM)"
+date: '2020-02-06'
+author: L. Kobilke, T. Zerback
+# image: drag-glamazons.JPG
+categories: ['presentations']
+description: 'Mainz, Germany'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+
+

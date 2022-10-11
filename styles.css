@@ -1,1 +1,10 @@
 /* css styles */
+
+#quarto-document-content {
+  width: 900px;
+}
+
+#quarto-margin-sidebar {
+  margin-right: -900px;
+  margin-left: 100px;
+}

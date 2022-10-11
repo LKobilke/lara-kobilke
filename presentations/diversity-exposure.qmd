@@ -1,0 +1,17 @@
+---
+title: 'The role of affective and cognitive attitude extremity in viewpoint diversity exposure'
+subtitle: "72nd Annual Conference of the International Communication Association (ICA)"
+date: '2022-05-28'
+author: T. Zerback, L. Kobilke
+# image: drag-glamazons.JPG
+categories: ['presentations']
+description: 'Paris, France'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+
+

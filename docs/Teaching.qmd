@@ -1,0 +1,31 @@
+---
+title: "Lara Kobilke"
+image: LMU.PNG
+fontsize: 16pt
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 13em
+---
+
+```{r, include=TRUE, echo=FALSE}
+library(fontawesome)
+```
+
+::: {#hero-heading}
+## Education
+
+
+`r fa(name = "graduation-cap", fill = "lightgrey", height = "1em")` PhD, Communication and Media Research, 2019-2022
+University of Zurich, Switzerland
+
+`r fa(name = "graduation-cap", fill = "lightgrey", height = "1em")` MA, Communication Science, 2015-2017
+LMU Munich, Germany
+
+`r fa(name = "graduation-cap", fill = "lightgrey", height = "1em")` BA, Communication Science (Major), 2011-2015
+LMU Munich, Germany
+
+`r fa(name = "graduation-cap", fill = "lightgrey", height = "1em")` BA, German Literature (Major) and Law (Minor), 2011-2014
+LMU Munich, Germany
+
+:::
