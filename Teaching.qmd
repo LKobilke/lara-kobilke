@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-image: teaching.PNG
+# image: teaching.PNG
 fontsize: 14pt
 about: 
   template: trestles
@@ -13,32 +13,31 @@ library(fontawesome)
 ```
 
 ::: {#hero-heading}
-
 ## Graduate Level
 
-### 2022 ###
+### 2022
+
 `r fa(name = "school", fill = "lightgrey", height = "1em")` "Data journalism." (LMU Munich)
 
 `r fa(name = "school", fill = "lightgrey", height = "1em")` "Theories, models, and methods of PR success monitoring." (LMU Munich)
 
-
 ## Undergraduate Level
 
-### 2022 ###
+### 2022
+
 `r fa(name = "school", fill = "lightgrey", height = "1em")` "Using conditional process analysis to evaluate communication theories." (University of Zurich)
 
 `r fa(name = "school", fill = "lightgrey", height = "1em")` "Digitalization: developments and challenges." (LMU Munich)
 
 `r fa(name = "school", fill = "lightgrey", height = "1em")` "Right-extremist lone wolves and Islamist terror groups? Media framing of right-extremist and Islamist attacks in Germany." (LMU Munich)
 
-### 2021 ###
+### 2021
+
 `r fa(name = "school", fill = "lightgrey", height = "1em")` "The influence of cross-cutting exposure on attitudes, feelings and behavior." (University of Zurich)
 
 `r fa(name = "school", fill = "lightgrey", height = "1em")` "Introduction to statistics with R." (Macromedia Private University)
 
-### 2018 ###
+### 2018
+
 `r fa(name = "school", fill = "lightgrey", height = "1em")` "Practicing market and media research in times of social media and big data." (LMU Munich)
-
-
-
 :::
