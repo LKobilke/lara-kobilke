@@ -1,0 +1,17 @@
+---
+title: 'The Momo Challenge: Measuring the extent to which YouTube portrays harmful and helpful depictions of a suicide game'
+subtitle: "https://doi.org/10.1007/s43545-021-00065-1"
+date: '2021-02'
+author: L. Kobilke, A. Markiewitz
+image: momo-challenge.JPG
+categories: ['peer-reviewed article']
+description: 'SN Social Sciences'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+## Find the paper: [here](https://link.springer.com/article/10.1007/s43545-021-00065-1) ##
+

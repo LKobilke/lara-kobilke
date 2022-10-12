@@ -1,0 +1,16 @@
+---
+title: 'Widerspruch als politische Kraft? Folgen des Kontakts mit gegenteiligen Meinungen für die politische Offline- und Online-Partizipation'
+date: '2022-12'
+author: L. Kobilke
+image: widerspruch-als-politische-kraft.JPG
+categories: ['book']
+description: 'Monographie, zugleich Dissertation'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+## The monograph will be accesible via ZORA. Contact me for a preprint. ##
+

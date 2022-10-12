@@ -1,0 +1,17 @@
+---
+title: 'All those glamazons we subscribe to. Mapping a network of key influencers spreading the art of drag on YouTube'
+subtitle: "https://doi.org/10.4324/9781003263555"
+date: '2022-08'
+author: L. Kobilke
+image: drag-glamazons.JPG
+categories: ['chapter']
+description: 'In N. Brennan & D. Gudelunas (Eds.), Drag in the global digital public sphere. Queer visibility, online discourse (pp. 65–88). Routledge'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+## Find the chapter: [here](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003263555-8/glamazons-subscribe-mapping-network-key-influencers-spreading-art-drag-youtube-lara-kobilke) ##
+

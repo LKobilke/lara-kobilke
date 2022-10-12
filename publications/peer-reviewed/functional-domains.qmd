@@ -1,0 +1,17 @@
+---
+title: 'Functional domains of social media platforms: Structuring the uses of Facebook to better understand its gratifications'
+subtitle: "https://doi.org/10.1016/j.chb.2018.01.042"
+date: '2018-06'
+author: D.J. Leiner, L. Kobilke, C. Rueß, H.B. Brosius
+image: functional-domains.JPG
+categories: ['peer-reviewed article']
+description: 'Computers in Human Behavior'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+## Find the paper: [here](https://www.sciencedirect.com/science/article/pii/S0747563218300487) ##
+

@@ -1,0 +1,17 @@
+---
+title: 'Publikumsbefragung elektronische Medien 2019. Im Auftrag des Bundesamtes fur Kommunikation'
+subtitle: "https://tinyurl.com/5n8vbx42"
+date: '2019-11'
+author: B. Fretwurst, L. Kobilke, H. Bonfadelli
+# image: viewpoint-diversity.JPG
+categories: ['report']
+description: 'Bundesamtes fur Kommunikation, Schweiz'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+## Find the paper: [here](https://www.bakom.admin.ch/dam/bakom/de/dokumente/bakom/elektronische_medien/Zahlen%20und%20Fakten/Studien/publikumsbefragung-elektronische-medien-2019-bericht.pdf.download.pdf/Publikumsbefragung%20elektronische%20Medien%202019.pdf) ##
+

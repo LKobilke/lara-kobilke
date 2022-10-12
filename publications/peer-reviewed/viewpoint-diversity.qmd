@@ -1,0 +1,17 @@
+---
+title: 'The role of affective and cognitive attitude extremity in perceived viewpoint diversity exposure'
+subtitle: "https://doi.org/10.1177/14614448221117484"
+date: '2022-08'
+author: T. Zerback , L. Kobilke
+image: viewpoint-diversity.JPG
+categories: ['peer-reviewed article']
+description: 'New Media & Society'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+## Find the paper: [here](https://journals.sagepub.com/doi/full/10.1177/14614448221117484) ##
+

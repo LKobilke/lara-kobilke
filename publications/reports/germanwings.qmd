@@ -1,0 +1,17 @@
+---
+title: 'Medien-Analyse zum Germanwings-Absturz'
+subtitle: "https://www.munich-digital.com/de/germanwings-analyse"
+date: '2015-04'
+author: A. Zhelyazkova, S. Wagner, L. Kobilke, C. Henne
+# image: viewpoint-diversity.JPG
+categories: ['report']
+description: 'Munich Digital Institute, Deutschland'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+## Find the paper: [here](https://www.munich-digital.com/de/germanwings-analyse) ##
+
