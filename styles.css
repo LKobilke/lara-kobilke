@@ -17,3 +17,7 @@ table {
 table tr td:nth-child(3) {
     width: 300px; /* Adjust this value as needed */
 }
+
+table tr td:nth-child(1) {
+    width: 60px; /* Adjust this value as needed */
+}
