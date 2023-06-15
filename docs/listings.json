@@ -3,17 +3,24 @@
     "listing": "/Publications.html",
     "items": [
       "/publications/books/widerspruch-als-politische-kraft.html",
+      "/publications/chapters/viewpoint-diversity-handbook.html",
       "/publications/peer-reviewed/viewpoint-diversity.html",
-      "/publications/chapters/drag-glamazons.html",
       "/publications/peer-reviewed/momo-challenge.html",
       "/publications/reports/elektronische-medien.html",
       "/publications/peer-reviewed/functional-domains.html",
+      "/publications/chapters/cross-cutting-handbook.html",
+      "/publications/peer-reviewed/blaming-nato.html",
+      "/publications/chapters/drag-glamazons.html",
       "/publications/reports/germanwings.html"
     ]
   },
   {
     "listing": "/Presentations.html",
     "items": [
+      "/presentations/blaming-nato-EPSA.html",
+      "/presentations/reprting-SML-ICA.html",
+      "/presentations/eco-emotions-ICA.html",
+      "/presentations/fuel-to-flames-ICA.html",
       "/presentations/terror-or-no-terror.html",
       "/presentations/reporting-SML.html",
       "/presentations/alternative-media-use.html",
@@ -29,6 +36,19 @@
       "/presentations/kontakt-mit-ggt-meinungen.html",
       "/presentations/patterns-social-media.html",
       "/presentations/mediatization-of-politics.html"
+    ]
+  },
+  {
+    "listing": "/Publications2.html",
+    "items": [
+      "/publications/peer-reviewed/blaming-nato.html",
+      "/publications/peer-reviewed/viewpoint-diversity.html",
+      "/publications/peer-reviewed/momo-challenge.html",
+      "/publications/peer-reviewed/functional-domains.html",
+      "/publications/books/widerspruch-als-politische-kraft.html",
+      "/publications/chapters/drag-glamazons.html",
+      "/publications/chapters/cross-cutting-handbook.html",
+      "/publications/chapters/viewpoint-diversity-handbook.html"
     ]
   }
 ]

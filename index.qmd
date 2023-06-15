@@ -25,7 +25,7 @@ about:
 ::: {#hero-heading}
 My name is Lara Kobilke and I am a political communication researcher at the LMU Munich, Department of Media and Communication.
 
-My research focuses on explaining the antecedents and consequences of pro-attitudinal and contra-attitudinal opinion exchanges. Over the last years, I've tackled questions such as (1) how often and why some people withdraw into echo chambers, (2) how talk across lines of political difference influences political behaviors, and (3) what role alternative media and psychological dispositions have in this process. Methodologically, my work comprises survey, experimental, and content analytical approaches that build into a mix of advanced quantitative methods (fixed effect models, mixed models, and multilevel SEMs) and computational methods (SML, NA).
+My research focuses on explaining the antecedents and consequences of pro-attitudinal and contra-attitudinal opinion exchanges. Over the last years, I've tackled questions such as (1) how often and why some people withdraw from contra-attitudinal opinion exchanges, (2) how talk across lines of political difference influences political behaviors, and (3) what role alternative media and psychological dispositions have in this process. Methodologically, my work comprises survey, experimental, and content analytical approaches that build into a mix of advanced quantitative methods (fixed effect models, mixed models, and multilevel SEMs) and computational methods (SML, NA).
 
 Please feel free to learn more about my [professional experience](Experience.qmd), [education](Experience.qmd), [teaching](Experience.qmd), [presentations](Presentations.qmd) and my [publications](Publications.qmd).
 :::

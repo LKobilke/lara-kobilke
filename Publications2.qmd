@@ -25,30 +25,25 @@ listing:
     fields: [author, date, title, description]
     contents: "/publications/chapters/*.qmd"
     type: table
-
-    
-    
 ---
 
 ## Books
 
 These are my published books.
 
-:::{#books}
+::: {#books}
 :::
 
 ## Peer-reviewed Journal Articles
 
 These are my published books.
 
-:::{#peer-reviewed}
+::: {#peer-reviewed}
 :::
-
 
 ## Chapters in Handbooks & Collections
 
 These are my published books.
 
-
-:::{#chapters}
+::: {#chapters}
 :::

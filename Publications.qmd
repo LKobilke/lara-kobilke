@@ -18,13 +18,11 @@ listing:
       - "date desc"
       - "title desc"
       - "description"
-    
 ---
 
-## Publications ##
+## Publications
 
 Via "categories" you can filter the table for books, peer-reviewed journal articles, and handbook chapters.
 
-:::{#publications}
+::: {#publications}
 :::
-

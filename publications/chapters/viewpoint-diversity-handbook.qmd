@@ -1,0 +1,14 @@
+---
+title: 'Viewpoint diversity exposure'
+subtitle: "https://doi.org/10.4324/9781003263555"
+date: 'in press'
+author: L. Kobilke
+categories: ['chapter']
+description: ' In A. Nai, M. Grömping, & D. S. Wirz (Eds.), Encyclopedia of Political Communication. Edward Elgar Publishing'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+

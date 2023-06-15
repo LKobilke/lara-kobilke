@@ -1,0 +1,14 @@
+---
+title: 'Blaming it on NATO? Framing the Russian Invasion of Ukraine on Twitter'
+subtitle: "EPSA’s 13th annual conference"
+date: '2023-06-22'
+author: L. Kobilke, A. Kulichkina, A. Baghumyan, C. Pipal
+# image: drag-glamazons.JPG
+categories: ['presentations']
+description: 'Glasgow, England'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---

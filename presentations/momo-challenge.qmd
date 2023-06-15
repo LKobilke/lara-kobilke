@@ -1,0 +1,17 @@
+---
+title: 'The Momo Challenge: A mixed-method approach on how suicidal games on YouTube may cause harm to adolescents'
+subtitle: "Annual Conference of the International Association for Media and Communication Research (IAMCR)"
+date: '2019-07-08'
+author: A. Markiewitz, L. Kobilke
+# image: drag-glamazons.JPG
+categories: ['presentations']
+description: 'Madrid, Spain'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+
+

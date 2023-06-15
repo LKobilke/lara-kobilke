@@ -13,6 +13,12 @@ library(fontawesome)
 ```
 
 ::: {#hero-heading}
+## Courses for colleagues
+
+### 2023
+
+`r fa(name = "school", fill = "lightgrey", height = "1em")` "Continuing education: Introduction to R [aimed at colleagues of the IfKW, LMU]." (LMU Munich)
+
 ## Graduate Level
 
 ### 2022
@@ -22,6 +28,12 @@ library(fontawesome)
 `r fa(name = "school", fill = "lightgrey", height = "1em")` "Theories, models, and methods of PR success monitoring." (LMU Munich)
 
 ## Undergraduate Level
+
+### 2023
+
+`r fa(name = "school", fill = "lightgrey", height = "1em")` "Terrorism and the media: Navigating the fine line between the duty to inform and sensationalism." (University of Bern)
+
+`r fa(name = "school", fill = "lightgrey", height = "1em")` "Automated procedures for the analysis of business communication strategies: Focus on the board game industry”." (LMU Munich)
 
 ### 2022
 

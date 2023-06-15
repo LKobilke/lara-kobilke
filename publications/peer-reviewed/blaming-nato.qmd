@@ -1,0 +1,17 @@
+---
+title: 'Blaming it on NATO? Framing the role of NATO in the full-scale Russian invasion of Ukraine on Twitter'
+subtitle: "https://doi.org/10.3389/fpos.2023.1122439"
+date: '2023-05'
+author: L. Kobilke, A. Kulichkina, A. Baghumyan, C. Pipal
+image: blaming-nato.JPG
+categories: ['peer-reviewed article']
+description: 'Frontiers in Political Science'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+## Find the paper: [here](https://www.frontiersin.org/articles/10.3389/fpos.2023.1122439/full) ##
+

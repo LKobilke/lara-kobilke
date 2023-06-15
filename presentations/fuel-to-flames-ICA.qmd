@@ -1,0 +1,14 @@
+---
+title: 'Fuel to the flames. False balance and hostile media perceptions as amplifiers of perceived polarization in the climate change debate'
+subtitle: "73rd Annual Meeting of the International Communication Association"
+date: '2023-05-26'
+author: N. Fawzi, T. Zerback, L. Kobilke, N. G. Mede
+# image: drag-glamazons.JPG
+categories: ['presentations']
+description: 'Toronto, Canada'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---

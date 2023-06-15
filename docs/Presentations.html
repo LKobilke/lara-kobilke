@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.36">
+<meta name="generator" content="quarto-1.3.353">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
 </style>
 
 
@@ -87,6 +92,7 @@ ul.task-list{list-style: none;}
   })
   </script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
@@ -100,37 +106,45 @@ ul.task-list{list-style: none;}
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <a class="navbar-brand" href="./index.html">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Lara Kobilke, M.A.</span>
-  </a>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">About</a>
+    <a class="nav-link" href="./index.html" rel="" target="">
+ <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Experience.html">Experience</a>
+    <a class="nav-link" href="./Experience.html" rel="" target="">
+ <span class="menu-text">Experience</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Education.html">Education</a>
+    <a class="nav-link" href="./Education.html" rel="" target="">
+ <span class="menu-text">Education</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Teaching.html">Teaching</a>
+    <a class="nav-link" href="./Teaching.html" rel="" target="">
+ <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Publications.html">Publications</a>
+    <a class="nav-link" href="./Publications.html" rel="" target="">
+ <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./Presentations.html" aria-current="page">Presentations</a>
+    <a class="nav-link active" href="./Presentations.html" rel="" target="" aria-current="page">
+ <span class="menu-text">Presentations</span></a>
   </li>  
 </ul>
-              <div class="quarto-toggle-container">
-                  <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
-              </div>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -141,7 +155,7 @@ ul.task-list{list-style: none;}
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(15)</span></div><div class="category" data-category="presentations">presentations <span class="quarto-category-count">(15)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(19)</span></div><div class="category" data-category="presentations">presentations <span class="quarto-category-count">(19)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -155,6 +169,7 @@ ul.task-list{list-style: none;}
 <div class="quarto-title-meta">
 
     
+  
     
   </div>
   
@@ -209,261 +224,327 @@ Location
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-categories="presentations" data-listing-date-sort="1665007200000" data-listing-file-modified-sort="1665507451111" data-listing-reading-time-sort="0.005" data-listing-title-sort="Terror or no terror, that is the question. Comparing manual and automated frame analysis of right-wing extremist and Islamist terror attacks in German news media" data-listing-filename-sort="terror-or-no-terror.qmd">
-<td class="listing-author">
-V. Noack, L. Kobilke, M. Mpadanes
+<tr data-index="0" data-categories="presentations" data-listing-date-sort="1687384800000" data-listing-file-modified-sort="1686870975821" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Blaming it on NATO? Framing the Russian Invasion of Ukraine on Twitter" data-listing-filename-sort="blaming-nato-EPSA.qmd">
+<td>
+<span class="listing-author">L. Kobilke, A. Kulichkina, A. Baghumyan, C. Pipal</span>
 </td>
-<td class="listing-date">
-2022
+<td>
+<span class="listing-date">2023</span>
 </td>
-<td class="listing-title">
-<a href="./presentations/terror-or-no-terror.html" class="title">Terror or no terror, that is the question. Comparing manual and automated frame analysis of right-wing extremist and Islamist terror attacks in German news media</a>
+<td>
+<a href="./presentations/blaming-nato-EPSA.html" class="title listing-title">Blaming it on NATO? Framing the Russian Invasion of Ukraine on Twitter</a>
 </td>
-<td class="listing-subtitle">
-Jahrestagung der Fachgruppe Methoden der DGPuK
+<td>
+<span class="listing-subtitle">EPSA’s 13th annual conference</span>
 </td>
-<td class="listing-description">
-Munich, Germany
-</td>
-</tr>
-<tr data-index="1" data-categories="presentations" data-listing-date-sort="1665007200000" data-listing-file-modified-sort="1665438154871" data-listing-reading-time-sort="0.005" data-listing-title-sort="Reporting supervised text analysis for communication science" data-listing-filename-sort="reporting-SML.qmd">
-<td class="listing-author">
-M. V. Reiss, L. Kobilke, A. Stoll
-</td>
-<td class="listing-date">
-2022
-</td>
-<td class="listing-title">
-<a href="./presentations/reporting-SML.html" class="title">Reporting supervised text analysis for communication science</a>
-</td>
-<td class="listing-subtitle">
-Jahrestagung der Fachgruppe Methoden der DGPuK
-</td>
-<td class="listing-description">
-Munich, Germany
+<td>
+<span class="listing-description">Glasgow, England</span>
 </td>
 </tr>
-<tr data-index="2" data-categories="presentations" data-listing-date-sort="1664488800000" data-listing-file-modified-sort="1665510488542" data-listing-reading-time-sort="0.005" data-listing-title-sort="The relationship between alternative media use and expressive, protest-based, and traditional political participation: A latent growth modeling approach" data-listing-filename-sort="alternative-media-use.qmd">
-<td class="listing-author">
-L. Kobilke, T. Zerback
+<tr data-index="1" data-categories="presentations" data-listing-date-sort="1685224800000" data-listing-file-modified-sort="1686870586624" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Reporting supervised machine learning projects in communication science – A framework for transparent documentation on the example of text classification" data-listing-filename-sort="reprting-SML-ICA.qmd">
+<td>
+<span class="listing-author">M. V. Reiss, L. Kobilke, A. Stoll</span>
 </td>
-<td class="listing-date">
-2022
+<td>
+<span class="listing-date">2023</span>
 </td>
-<td class="listing-title">
-<a href="./presentations/alternative-media-use.html" class="title">The relationship between alternative media use and expressive, protest-based, and traditional political participation: A latent growth modeling approach</a>
+<td>
+<a href="./presentations/reprting-SML-ICA.html" class="title listing-title">Reporting supervised machine learning projects in communication science – A framework for transparent documentation on the example of text classification</a>
 </td>
-<td class="listing-subtitle">
-Gemeinsame Jahrestagung der Journalismusforschung (DGPuK), Kommunikation und Politik (DGPuK), Politik und Kommunikation (DVPW) und Politische Kommunikation (SGKM)
+<td>
+<span class="listing-subtitle">73rd Annual Meeting of the International Communication Association</span>
 </td>
-<td class="listing-description">
-Trier, Germany
-</td>
-</tr>
-<tr data-index="3" data-categories="presentations" data-listing-date-sort="1653775200000" data-listing-file-modified-sort="1665437555570" data-listing-reading-time-sort="0.005" data-listing-title-sort="Cross-cutting exposure online, offline, and in traditional media. Exploring the consequences for political participation" data-listing-filename-sort="cross-cutting-exposure.qmd">
-<td class="listing-author">
-L. Kobilke, T. Zerback
-</td>
-<td class="listing-date">
-2022
-</td>
-<td class="listing-title">
-<a href="./presentations/cross-cutting-exposure.html" class="title">Cross-cutting exposure online, offline, and in traditional media. Exploring the consequences for political participation</a>
-</td>
-<td class="listing-subtitle">
-72nd Annual Conference of the International Communication Association (ICA)
-</td>
-<td class="listing-description">
-Paris, France
+<td>
+<span class="listing-description">Toronto, Canada</span>
 </td>
 </tr>
-<tr data-index="4" data-categories="presentations" data-listing-date-sort="1653688800000" data-listing-file-modified-sort="1665437610018" data-listing-reading-time-sort="0.005" data-listing-title-sort="The role of affective and cognitive attitude extremity in viewpoint diversity exposure" data-listing-filename-sort="diversity-exposure.qmd">
-<td class="listing-author">
-T. Zerback, L. Kobilke
+<tr data-index="2" data-categories="presentations" data-listing-date-sort="1685224800000" data-listing-file-modified-sort="1686870825273" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Eco-informational media use, media-induced eco-emotions, and climate change activism: What drives the political engagement of the climate change generation?" data-listing-filename-sort="eco-emotions-ICA.qmd">
+<td>
+<span class="listing-author">L. Kobilke, N. Fawzi, N. G. Mede, T. Zerback</span>
 </td>
-<td class="listing-date">
-2022
+<td>
+<span class="listing-date">2023</span>
 </td>
-<td class="listing-title">
-<a href="./presentations/diversity-exposure.html" class="title">The role of affective and cognitive attitude extremity in viewpoint diversity exposure</a>
+<td>
+<a href="./presentations/eco-emotions-ICA.html" class="title listing-title">Eco-informational media use, media-induced eco-emotions, and climate change activism: What drives the political engagement of the climate change generation?</a>
 </td>
-<td class="listing-subtitle">
-72nd Annual Conference of the International Communication Association (ICA)
+<td>
+<span class="listing-subtitle">73rd Annual Meeting of the International Communication Association</span>
 </td>
-<td class="listing-description">
-Paris, France
-</td>
-</tr>
-<tr data-index="5" data-categories="presentations" data-listing-date-sort="1604530800000" data-listing-file-modified-sort="1665437074267" data-listing-reading-time-sort="0.005" data-listing-title-sort="Acting upon disagreement? The effects of cross-cutting exposure on political participation in offline, online, and traditional media communication environments" data-listing-filename-sort="acting-on-disagreement.qmd">
-<td class="listing-author">
-L. Kobilke
-</td>
-<td class="listing-date">
-2020
-</td>
-<td class="listing-title">
-<a href="./presentations/acting-on-disagreement.html" class="title">Acting upon disagreement? The effects of cross-cutting exposure on political participation in offline, online, and traditional media communication environments</a>
-</td>
-<td class="listing-subtitle">
-Digital Democracy Workshop
-</td>
-<td class="listing-description">
-Zurich, Switzerland (virtual)
+<td>
+<span class="listing-description">Toronto, Canada</span>
 </td>
 </tr>
-<tr data-index="6" data-categories="presentations" data-listing-date-sort="1590271200000" data-listing-file-modified-sort="1665436995915" data-listing-reading-time-sort="0.005" data-listing-title-sort="Inclusive, but exclusive? Assessing the dominance of RuPaul’s Drag Race for drag representation in social media" data-listing-filename-sort="drag-glamazons.qmd">
-<td class="listing-author">
-L. Kobilke
+<tr data-index="3" data-categories="presentations" data-listing-date-sort="1685052000000" data-listing-file-modified-sort="1686870729493" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Fuel to the flames. False balance and hostile media perceptions as amplifiers of perceived polarization in the climate change debate" data-listing-filename-sort="fuel-to-flames-ICA.qmd">
+<td>
+<span class="listing-author">N. Fawzi, T. Zerback, L. Kobilke, N. G. Mede</span>
 </td>
-<td class="listing-date">
-2020
+<td>
+<span class="listing-date">2023</span>
 </td>
-<td class="listing-title">
-<a href="./presentations/drag-glamazons.html" class="title">Inclusive, but exclusive? Assessing the dominance of RuPaul’s Drag Race for drag representation in social media</a>
+<td>
+<a href="./presentations/fuel-to-flames-ICA.html" class="title listing-title">Fuel to the flames. False balance and hostile media perceptions as amplifiers of perceived polarization in the climate change debate</a>
 </td>
-<td class="listing-subtitle">
-69th Annual Conference of the International Communication Association (ICA)
+<td>
+<span class="listing-subtitle">73rd Annual Meeting of the International Communication Association</span>
 </td>
-<td class="listing-description">
-Sunshine Coast, Australia (virtual)
-</td>
-</tr>
-<tr data-index="7" data-categories="presentations" data-listing-date-sort="1583881200000" data-listing-file-modified-sort="1665437480899" data-listing-reading-time-sort="0.005" data-listing-title-sort="Populist participation? A closer look at the relationship between populist attitudes and political participation in Germany" data-listing-filename-sort="popoulist-participation.qmd">
-<td class="listing-author">
-L. Kobilke, T. Zerback
-</td>
-<td class="listing-date">
-2020
-</td>
-<td class="listing-title">
-<a href="./presentations/popoulist-participation.html" class="title">Populist participation? A closer look at the relationship between populist attitudes and political participation in Germany</a>
-</td>
-<td class="listing-subtitle">
-<ol start="65" type="1">
-<li>Jahrestagung der Deutschen Gesellschaft für Publizistik- und Kommunikationswissenschaft (DGPuK)</li>
-</ol>
-</td>
-<td class="listing-description">
-Munich, Germany
+<td>
+<span class="listing-description">Toronto, Canada</span>
 </td>
 </tr>
-<tr data-index="8" data-categories="presentations" data-listing-date-sort="1581375600000" data-listing-file-modified-sort="1665438515879" data-listing-reading-time-sort="0.005" data-listing-title-sort="Momo is a NoNo - How media depictions of the suicide game Momo Challenge affect their viewers on YouTube" data-listing-filename-sort="momo-nono.qmd">
-<td class="listing-author">
-L. Kobilke, A. Markiewitz
+<tr data-index="4" data-categories="presentations" data-listing-date-sort="1665007200000" data-listing-file-modified-sort="1665507451111" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Terror or no terror, that is the question. Comparing manual and automated frame analysis of right-wing extremist and Islamist terror attacks in German news media" data-listing-filename-sort="terror-or-no-terror.qmd">
+<td>
+<span class="listing-author">V. Noack, L. Kobilke, M. Mpadanes</span>
 </td>
-<td class="listing-date">
-2020
+<td>
+<span class="listing-date">2022</span>
 </td>
-<td class="listing-title">
-<a href="./presentations/momo-nono.html" class="title">Momo is a NoNo - How media depictions of the suicide game Momo Challenge affect their viewers on YouTube</a>
+<td>
+<a href="./presentations/terror-or-no-terror.html" class="title listing-title">Terror or no terror, that is the question. Comparing manual and automated frame analysis of right-wing extremist and Islamist terror attacks in German news media</a>
 </td>
-<td class="listing-subtitle">
-European Conference on Health Communication (ECHC)
+<td>
+<span class="listing-subtitle">Jahrestagung der Fachgruppe Methoden der DGPuK</span>
 </td>
-<td class="listing-description">
-Zurich, Switzerland
-</td>
-</tr>
-<tr data-index="9" data-categories="presentations" data-listing-date-sort="1580943600000" data-listing-file-modified-sort="1665506074508" data-listing-reading-time-sort="0.005" data-listing-title-sort="In der Echokammer? Politische Einstellungen, interpersonale Kommunikation und Mediennutzung als Prädiktoren erlebter Meinungsvielfalt" data-listing-filename-sort="echokammer.qmd">
-<td class="listing-author">
-L. Kobilke, T. Zerback
-</td>
-<td class="listing-date">
-2020
-</td>
-<td class="listing-title">
-<a href="./presentations/echokammer.html" class="title">In der Echokammer? Politische Einstellungen, interpersonale Kommunikation und Mediennutzung als Prädiktoren erlebter Meinungsvielfalt</a>
-</td>
-<td class="listing-subtitle">
-Gemeinsame Jahrestagung der Kommunikation und Politik (DGPuK), Politik und Kommunikation (DVPW) und Politische Kommunikation (SGKM)
-</td>
-<td class="listing-description">
-Mainz, Germany
+<td>
+<span class="listing-description">Munich, Germany</span>
 </td>
 </tr>
-<tr data-index="10" data-categories="presentations" data-listing-date-sort="1562536800000" data-listing-file-modified-sort="1665438013344" data-listing-reading-time-sort="0.005" data-listing-title-sort="The Momo Challenge: A mixed-method approach on how suicidal games on YouTube may cause harm to adolescents" data-listing-filename-sort="momo-challenge.qmd">
-<td class="listing-author">
-A. Markiewitz, L. Kobilke
+<tr data-index="5" data-categories="presentations" data-listing-date-sort="1665007200000" data-listing-file-modified-sort="1665438154871" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Reporting supervised text analysis for communication science" data-listing-filename-sort="reporting-SML.qmd">
+<td>
+<span class="listing-author">M. V. Reiss, L. Kobilke, A. Stoll</span>
 </td>
-<td class="listing-date">
-2019
+<td>
+<span class="listing-date">2022</span>
 </td>
-<td class="listing-title">
-<a href="./presentations/momo-challenge.html" class="title">The Momo Challenge: A mixed-method approach on how suicidal games on YouTube may cause harm to adolescents</a>
+<td>
+<a href="./presentations/reporting-SML.html" class="title listing-title">Reporting supervised text analysis for communication science</a>
 </td>
-<td class="listing-subtitle">
-Annual Conference of the International Association for Media and Communication Research (IAMCR)
+<td>
+<span class="listing-subtitle">Jahrestagung der Fachgruppe Methoden der DGPuK</span>
 </td>
-<td class="listing-description">
-Madrid, Spain
-</td>
-</tr>
-<tr data-index="11" data-categories="presentations" data-listing-date-sort="1558735200000" data-listing-file-modified-sort="1665436884439" data-listing-reading-time-sort="0.005" data-listing-title-sort="Towards a model of lexical diffusion in social media networks: A case study of the dissemination of the term “lying press” in Germany" data-listing-filename-sort="lexical-diffusion.qmd">
-<td class="listing-author">
-L. Kobilke
-</td>
-<td class="listing-date">
-2019
-</td>
-<td class="listing-title">
-<a href="./presentations/lexical-diffusion.html" class="title">Towards a model of lexical diffusion in social media networks: A case study of the dissemination of the term “lying press” in Germany</a>
-</td>
-<td class="listing-subtitle">
-69th Annual Conference of the International Communication Association (ICA)
-</td>
-<td class="listing-description">
-Washington, DC, USA
+<td>
+<span class="listing-description">Munich, Germany</span>
 </td>
 </tr>
-<tr data-index="12" data-categories="presentations" data-listing-date-sort="1542236400000" data-listing-file-modified-sort="1665436912814" data-listing-reading-time-sort="0.005" data-listing-title-sort="Der Kontakt mit gegenteiligen Meinungen in Sozialen Medien: Effekte auf die politische (Online-)Partizipation" data-listing-filename-sort="kontakt-mit-ggt-meinungen.qmd">
-<td class="listing-author">
-L. Kobilke
+<tr data-index="6" data-categories="presentations" data-listing-date-sort="1664488800000" data-listing-file-modified-sort="1665510488542" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="The relationship between alternative media use and expressive, protest-based, and traditional political participation: A latent growth modeling approach" data-listing-filename-sort="alternative-media-use.qmd">
+<td>
+<span class="listing-author">L. Kobilke, T. Zerback</span>
 </td>
-<td class="listing-date">
-2018
+<td>
+<span class="listing-date">2022</span>
 </td>
-<td class="listing-title">
-<a href="./presentations/kontakt-mit-ggt-meinungen.html" class="title">Der Kontakt mit gegenteiligen Meinungen in Sozialen Medien: Effekte auf die politische (Online-)Partizipation</a>
+<td>
+<a href="./presentations/alternative-media-use.html" class="title listing-title">The relationship between alternative media use and expressive, protest-based, and traditional political participation: A latent growth modeling approach</a>
 </td>
-<td class="listing-subtitle">
-NapoKo-Kolloquium 18
+<td>
+<span class="listing-subtitle">Gemeinsame Jahrestagung der Journalismusforschung (DGPuK), Kommunikation und Politik (DGPuK), Politik und Kommunikation (DVPW) und Politische Kommunikation (SGKM)</span>
 </td>
-<td class="listing-description">
-Mainz, Germany
-</td>
-</tr>
-<tr data-index="13" data-categories="presentations" data-listing-date-sort="1495663200000" data-listing-file-modified-sort="1665437919172" data-listing-reading-time-sort="0.005" data-listing-title-sort="Patterns behind social media usage: Comprehending Facebook as a set of features to separate its functional domains" data-listing-filename-sort="patterns-social-media.qmd">
-<td class="listing-author">
-L. Kobilke, T. Zerback
-</td>
-<td class="listing-date">
-2017
-</td>
-<td class="listing-title">
-<a href="./presentations/patterns-social-media.html" class="title">Patterns behind social media usage: Comprehending Facebook as a set of features to separate its functional domains</a>
-</td>
-<td class="listing-subtitle">
-67th Annual Conference of the International Communication Association (ICA)
-</td>
-<td class="listing-description">
-San Diego,CA,USA
+<td>
+<span class="listing-description">Trier, Germany</span>
 </td>
 </tr>
-<tr data-index="14" data-categories="presentations" data-listing-date-sort="1436911200000" data-listing-file-modified-sort="1665437154959" data-listing-reading-time-sort="0.005" data-listing-title-sort="Mediatization of politics from a psychological point of view. Exploring media effects on scandalized politicians in a qualitative analysis of two German cases" data-listing-filename-sort="mediatization-of-politics.qmd">
-<td class="listing-author">
-L. Kobilke
+<tr data-index="7" data-categories="presentations" data-listing-date-sort="1653775200000" data-listing-file-modified-sort="1665437555570" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Cross-cutting exposure online, offline, and in traditional media. Exploring the consequences for political participation" data-listing-filename-sort="cross-cutting-exposure.qmd">
+<td>
+<span class="listing-author">L. Kobilke, T. Zerback</span>
 </td>
-<td class="listing-date">
-2015
+<td>
+<span class="listing-date">2022</span>
 </td>
-<td class="listing-title">
-<a href="./presentations/mediatization-of-politics.html" class="title">Mediatization of politics from a psychological point of view. Exploring media effects on scandalized politicians in a qualitative analysis of two German cases</a>
+<td>
+<a href="./presentations/cross-cutting-exposure.html" class="title listing-title">Cross-cutting exposure online, offline, and in traditional media. Exploring the consequences for political participation</a>
 </td>
-<td class="listing-subtitle">
-Annual Conference of the International Association for Media and Communication Research (IAMCR)
+<td>
+<span class="listing-subtitle">72nd Annual Conference of the International Communication Association (ICA)</span>
 </td>
-<td class="listing-description">
-Montreal, Canada
+<td>
+<span class="listing-description">Paris, France</span>
+</td>
+</tr>
+<tr data-index="8" data-categories="presentations" data-listing-date-sort="1653688800000" data-listing-file-modified-sort="1665437610018" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="The role of affective and cognitive attitude extremity in viewpoint diversity exposure" data-listing-filename-sort="diversity-exposure.qmd">
+<td>
+<span class="listing-author">T. Zerback, L. Kobilke</span>
+</td>
+<td>
+<span class="listing-date">2022</span>
+</td>
+<td>
+<a href="./presentations/diversity-exposure.html" class="title listing-title">The role of affective and cognitive attitude extremity in viewpoint diversity exposure</a>
+</td>
+<td>
+<span class="listing-subtitle">72nd Annual Conference of the International Communication Association (ICA)</span>
+</td>
+<td>
+<span class="listing-description">Paris, France</span>
+</td>
+</tr>
+<tr data-index="9" data-categories="presentations" data-listing-date-sort="1604530800000" data-listing-file-modified-sort="1665437074267" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Acting upon disagreement? The effects of cross-cutting exposure on political participation in offline, online, and traditional media communication environments" data-listing-filename-sort="acting-on-disagreement.qmd">
+<td>
+<span class="listing-author">L. Kobilke</span>
+</td>
+<td>
+<span class="listing-date">2020</span>
+</td>
+<td>
+<a href="./presentations/acting-on-disagreement.html" class="title listing-title">Acting upon disagreement? The effects of cross-cutting exposure on political participation in offline, online, and traditional media communication environments</a>
+</td>
+<td>
+<span class="listing-subtitle">Digital Democracy Workshop</span>
+</td>
+<td>
+<span class="listing-description">Zurich, Switzerland (virtual)</span>
+</td>
+</tr>
+<tr data-index="10" data-categories="presentations" data-listing-date-sort="1590271200000" data-listing-file-modified-sort="1665436995915" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Inclusive, but exclusive? Assessing the dominance of RuPaul’s Drag Race for drag representation in social media" data-listing-filename-sort="drag-glamazons.qmd">
+<td>
+<span class="listing-author">L. Kobilke</span>
+</td>
+<td>
+<span class="listing-date">2020</span>
+</td>
+<td>
+<a href="./presentations/drag-glamazons.html" class="title listing-title">Inclusive, but exclusive? Assessing the dominance of RuPaul’s Drag Race for drag representation in social media</a>
+</td>
+<td>
+<span class="listing-subtitle">69th Annual Conference of the International Communication Association (ICA)</span>
+</td>
+<td>
+<span class="listing-description">Sunshine Coast, Australia (virtual)</span>
+</td>
+</tr>
+<tr data-index="11" data-categories="presentations" data-listing-date-sort="1583881200000" data-listing-file-modified-sort="1665437480899" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Populist participation? A closer look at the relationship between populist attitudes and political participation in Germany" data-listing-filename-sort="popoulist-participation.qmd">
+<td>
+<span class="listing-author">L. Kobilke, T. Zerback</span>
+</td>
+<td>
+<span class="listing-date">2020</span>
+</td>
+<td>
+<a href="./presentations/popoulist-participation.html" class="title listing-title">Populist participation? A closer look at the relationship between populist attitudes and political participation in Germany</a>
+</td>
+<td>
+<span class="listing-subtitle">65. Jahrestagung der Deutschen Gesellschaft für Publizistik- und Kommunikationswissenschaft (DGPuK)</span>
+</td>
+<td>
+<span class="listing-description">Munich, Germany</span>
+</td>
+</tr>
+<tr data-index="12" data-categories="presentations" data-listing-date-sort="1581375600000" data-listing-file-modified-sort="1665438515879" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Momo is a NoNo - How media depictions of the suicide game Momo Challenge affect their viewers on YouTube" data-listing-filename-sort="momo-nono.qmd">
+<td>
+<span class="listing-author">L. Kobilke, A. Markiewitz</span>
+</td>
+<td>
+<span class="listing-date">2020</span>
+</td>
+<td>
+<a href="./presentations/momo-nono.html" class="title listing-title">Momo is a NoNo - How media depictions of the suicide game Momo Challenge affect their viewers on YouTube</a>
+</td>
+<td>
+<span class="listing-subtitle">European Conference on Health Communication (ECHC)</span>
+</td>
+<td>
+<span class="listing-description">Zurich, Switzerland</span>
+</td>
+</tr>
+<tr data-index="13" data-categories="presentations" data-listing-date-sort="1580943600000" data-listing-file-modified-sort="1665506074508" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="In der Echokammer? Politische Einstellungen, interpersonale Kommunikation und Mediennutzung als Prädiktoren erlebter Meinungsvielfalt" data-listing-filename-sort="echokammer.qmd">
+<td>
+<span class="listing-author">L. Kobilke, T. Zerback</span>
+</td>
+<td>
+<span class="listing-date">2020</span>
+</td>
+<td>
+<a href="./presentations/echokammer.html" class="title listing-title">In der Echokammer? Politische Einstellungen, interpersonale Kommunikation und Mediennutzung als Prädiktoren erlebter Meinungsvielfalt</a>
+</td>
+<td>
+<span class="listing-subtitle">Gemeinsame Jahrestagung der Kommunikation und Politik (DGPuK), Politik und Kommunikation (DVPW) und Politische Kommunikation (SGKM)</span>
+</td>
+<td>
+<span class="listing-description">Mainz, Germany</span>
+</td>
+</tr>
+<tr data-index="14" data-categories="presentations" data-listing-date-sort="1562536800000" data-listing-file-modified-sort="1665438013344" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="The Momo Challenge: A mixed-method approach on how suicidal games on YouTube may cause harm to adolescents" data-listing-filename-sort="momo-challenge.qmd">
+<td>
+<span class="listing-author">A. Markiewitz, L. Kobilke</span>
+</td>
+<td>
+<span class="listing-date">2019</span>
+</td>
+<td>
+<a href="./presentations/momo-challenge.html" class="title listing-title">The Momo Challenge: A mixed-method approach on how suicidal games on YouTube may cause harm to adolescents</a>
+</td>
+<td>
+<span class="listing-subtitle">Annual Conference of the International Association for Media and Communication Research (IAMCR)</span>
+</td>
+<td>
+<span class="listing-description">Madrid, Spain</span>
+</td>
+</tr>
+<tr data-index="15" data-categories="presentations" data-listing-date-sort="1558735200000" data-listing-file-modified-sort="1665436884439" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Towards a model of lexical diffusion in social media networks: A case study of the dissemination of the term “lying press” in Germany" data-listing-filename-sort="lexical-diffusion.qmd">
+<td>
+<span class="listing-author">L. Kobilke</span>
+</td>
+<td>
+<span class="listing-date">2019</span>
+</td>
+<td>
+<a href="./presentations/lexical-diffusion.html" class="title listing-title">Towards a model of lexical diffusion in social media networks: A case study of the dissemination of the term “lying press” in Germany</a>
+</td>
+<td>
+<span class="listing-subtitle">69th Annual Conference of the International Communication Association (ICA)</span>
+</td>
+<td>
+<span class="listing-description">Washington, DC, USA</span>
+</td>
+</tr>
+<tr data-index="16" data-categories="presentations" data-listing-date-sort="1542236400000" data-listing-file-modified-sort="1665436912814" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Der Kontakt mit gegenteiligen Meinungen in Sozialen Medien: Effekte auf die politische (Online-)Partizipation" data-listing-filename-sort="kontakt-mit-ggt-meinungen.qmd">
+<td>
+<span class="listing-author">L. Kobilke</span>
+</td>
+<td>
+<span class="listing-date">2018</span>
+</td>
+<td>
+<a href="./presentations/kontakt-mit-ggt-meinungen.html" class="title listing-title">Der Kontakt mit gegenteiligen Meinungen in Sozialen Medien: Effekte auf die politische (Online-)Partizipation</a>
+</td>
+<td>
+<span class="listing-subtitle">NapoKo-Kolloquium 18</span>
+</td>
+<td>
+<span class="listing-description">Mainz, Germany</span>
+</td>
+</tr>
+<tr data-index="17" data-categories="presentations" data-listing-date-sort="1495663200000" data-listing-file-modified-sort="1665437919172" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Patterns behind social media usage: Comprehending Facebook as a set of features to separate its functional domains" data-listing-filename-sort="patterns-social-media.qmd">
+<td>
+<span class="listing-author">L. Kobilke, T. Zerback</span>
+</td>
+<td>
+<span class="listing-date">2017</span>
+</td>
+<td>
+<a href="./presentations/patterns-social-media.html" class="title listing-title">Patterns behind social media usage: Comprehending Facebook as a set of features to separate its functional domains</a>
+</td>
+<td>
+<span class="listing-subtitle">67th Annual Conference of the International Communication Association (ICA)</span>
+</td>
+<td>
+<span class="listing-description">San Diego,CA,USA</span>
+</td>
+</tr>
+<tr data-index="18" data-categories="presentations" data-listing-date-sort="1436911200000" data-listing-file-modified-sort="1665437154959" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Mediatization of politics from a psychological point of view. Exploring media effects on scandalized politicians in a qualitative analysis of two German cases" data-listing-filename-sort="mediatization-of-politics.qmd">
+<td>
+<span class="listing-author">L. Kobilke</span>
+</td>
+<td>
+<span class="listing-date">2015</span>
+</td>
+<td>
+<a href="./presentations/mediatization-of-politics.html" class="title listing-title">Mediatization of politics from a psychological point of view. Exploring media effects on scandalized politicians in a qualitative analysis of two German cases</a>
+</td>
+<td>
+<span class="listing-subtitle">Annual Conference of the International Association for Media and Communication Research (IAMCR)</span>
+</td>
+<td>
+<span class="listing-description">Montreal, Canada</span>
 </td>
 </tr>
 </tbody>
@@ -549,6 +630,16 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         }
       }
     }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
   }
   const isFileUrl = () => { 
     return window.location.protocol === 'file:';
@@ -600,7 +691,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   // Switch to dark mode if need be
   if (hasAlternateSentinel()) {
     toggleColorMode(true);
-  } 
+  } else {
+    toggleColorMode(false);
+  }
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
@@ -608,9 +701,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -622,7 +729,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -650,31 +774,136 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>

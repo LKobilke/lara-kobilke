@@ -1,0 +1,14 @@
+---
+title: 'Eco-informational media use, media-induced eco-emotions, and climate change activism: What drives the political engagement of the climate change generation?'
+subtitle: "73rd Annual Meeting of the International Communication Association"
+date: '2023-05-28'
+author: L. Kobilke, N. Fawzi, N. G. Mede, T. Zerback
+# image: drag-glamazons.JPG
+categories: ['presentations']
+description: 'Toronto, Canada'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
