@@ -17,7 +17,6 @@ listing:
     - "category"
     - "date desc"
     - "title desc"
-    - "description"
 ---
 
 ::: {#presentations}
