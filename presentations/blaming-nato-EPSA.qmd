@@ -1,11 +1,10 @@
 ---
 title: 'Blaming it on NATO? Framing the Russian Invasion of Ukraine on Twitter'
-subtitle: "EPSA’s 13th annual conference"
+subtitle: "EPSA’s 13th annual conference, Glasgow, England"
 date: '2023-06-22'
 author: L. Kobilke, A. Kulichkina, A. Baghumyan, C. Pipal
 # image: drag-glamazons.JPG
 categories: ['presentations']
-description: 'Glasgow, England'
 execute: 
   message: false
   warning: false

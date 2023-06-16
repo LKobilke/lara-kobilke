@@ -1,17 +1,13 @@
 ---
 title: 'Inclusive, but exclusive? Assessing the dominance of RuPaul’s Drag Race for drag representation in social media'
-subtitle: "69th Annual Conference of the International Communication Association (ICA)"
+subtitle: "69th Annual Conference of the International Communication Association (ICA), Sunshine Coast, Australia (virtual)"
 date: '2020-05-24'
 author: L. Kobilke
 # image: drag-glamazons.JPG
 categories: ['presentations']
-description: 'Sunshine Coast, Australia (virtual)'
 execute: 
   message: false
   warning: false
 editor_options: 
   chunk_output_type: console
 ---
-
-
-

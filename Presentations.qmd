@@ -3,7 +3,7 @@ title: "Presentations, Talks & Workshops"
 
 listing:
   id: presentations
-  fields: [author, date, title, subtitle, description]
+  fields: [author, date, title, subtitle]
   contents: "presentations/*.qmd"
   type: table
   categories: true
@@ -12,16 +12,13 @@ listing:
     author: "Author(s)"
     title: "Title"
     date: "Year"
-    description: "Location"
     subtitle: "Institution"
   sort:
     - "category"
     - "date desc"
     - "title desc"
     - "description"
-    
 ---
 
-
-:::{#presentations}
+::: {#presentations}
 :::

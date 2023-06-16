@@ -1,11 +1,10 @@
 ---
 title: 'Reporting supervised machine learning projects in communication science – A framework for transparent documentation on the example of text classification'
-subtitle: "73rd Annual Meeting of the International Communication Association"
+subtitle: "73rd Annual Meeting of the International Communication Association, Toronto, Canada"
 date: '2023-05-28'
 author: M. V. Reiss, L. Kobilke, A. Stoll
 # image: drag-glamazons.JPG
 categories: ['presentations']
-description: 'Toronto, Canada'
 execute: 
   message: false
   warning: false
