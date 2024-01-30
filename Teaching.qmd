@@ -13,43 +13,57 @@ library(fontawesome)
 ```
 
 ::: {#hero-heading}
-## Courses for colleagues
+## Courses for Colleagues
+
+### 2024
+
+`r fa(name = "school", fill = "lightgrey", height = "1em")` "Continuing education: Introduction to R \[aimed at colleagues of the Department of Media and Communication\]." (LMU Munich, 2SWS)
 
 ### 2023
 
-`r fa(name = "school", fill = "lightgrey", height = "1em")` "Continuing education: Introduction to R [aimed at colleagues of the IfKW, LMU]." (LMU Munich)
+`r fa(name = "school", fill = "lightgrey", height = "1em")` "Continuing education: Introduction to R, Part 1 \[aimed at colleagues of the Department of Media and Communication\]." (LMU Munich, 2SWS)
+
+<div>
+
+`r fa(name = "school", fill = "lightgrey", height = "1em")` "Continuing education: Introduction to R, Part 2 \[aimed at colleagues of the Department of Media and Communication\]." (LMU Munich, 2SWS)
+
+</div>
 
 ## Graduate Level
 
 ### 2022
 
-`r fa(name = "school", fill = "lightgrey", height = "1em")` "Data journalism." (LMU Munich)
+`r fa(name = "school", fill = "lightgrey", height = "1em")` "Practice in communication: Data journalism." (LMU Munich, 2SWS) *\[Best Teaching Award of the Department of Media and Communication, LMU Munich\]*
 
-`r fa(name = "school", fill = "lightgrey", height = "1em")` "Theories, models, and methods of PR success monitoring." (LMU Munich)
+`r fa(name = "school", fill = "lightgrey", height = "1em")` "Theories, models, and methods of PR success monitoring." (LMU Munich, 2SWS)
 
 ## Undergraduate Level
 
+### 2024
+
+`r fa(name = "school", fill = "lightgrey", height = "1em")` "Balancing fun and risk: An analytical approach to categorizing viral TikTok challenges" (LMU Munich, 4SWS)
+
 ### 2023
 
-`r fa(name = "school", fill = "lightgrey", height = "1em")` "Terrorism and the media: Navigating the fine line between the duty to inform and sensationalism." (University of Bern)
+`r fa(name = "school", fill = "lightgrey", height = "1em")` "Terrorism and the media: Navigating the fine line between the duty to inform and sensationalism." (University of Bern, 2SWS)
 
-`r fa(name = "school", fill = "lightgrey", height = "1em")` "Automated procedures for the analysis of business communication strategies: Focus on the board game industry”." (LMU Munich)
+`r fa(name = "school", fill = "lightgrey", height = "1em")` "Automated procedures for the analysis of business communication strategies: Focus on the board game industry"." (LMU Munich, 2SWS)
 
 ### 2022
 
-`r fa(name = "school", fill = "lightgrey", height = "1em")` "Using conditional process analysis to evaluate communication theories." (University of Zurich)
+`r fa(name = "school", fill = "lightgrey", height = "1em")` "Using conditional process analysis to evaluate communication theories." (University of Zurich, 2SWS)
 
-`r fa(name = "school", fill = "lightgrey", height = "1em")` "Digitalization: developments and challenges." (LMU Munich)
+`r fa(name = "school", fill = "lightgrey", height = "1em")` "Right-extremist lone wolves and Islamist terror groups? Media framing of right-extremist and Islamist attacks in Germany." (LMU Munich, 4SWS)
 
-`r fa(name = "school", fill = "lightgrey", height = "1em")` "Right-extremist lone wolves and Islamist terror groups? Media framing of right-extremist and Islamist attacks in Germany." (LMU Munich)
+`r fa(name = "school", fill = "lightgrey", height = "1em")` "Digitalization: developments and challenges." (LMU Munich, 2SWS)
 
 ### 2021
 
-`r fa(name = "school", fill = "lightgrey", height = "1em")` "The influence of cross-cutting exposure on attitudes, feelings and behavior." (University of Zurich)
+`r fa(name = "school", fill = "lightgrey", height = "1em")` "The influence of cross-cutting exposure on attitudes, feelings and behavior." (University of Zurich, 2SWS)
 
-`r fa(name = "school", fill = "lightgrey", height = "1em")` "Introduction to statistics with R." (Macromedia Private University)
+`r fa(name = "school", fill = "lightgrey", height = "1em")` "Introduction to statistics with R." (Macromedia Private University, 2SWS)
 
 ### 2018
 
-`r fa(name = "school", fill = "lightgrey", height = "1em")` "Practicing market and media research in times of social media and big data." (LMU Munich)
+`r fa(name = "school", fill = "lightgrey", height = "1em")` "Practicing market and media research in times of social media and big data." (LMU Munich, 2SWS)
 :::
