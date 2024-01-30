@@ -14,7 +14,7 @@ library(fontawesome)
 
 ::: {#hero-heading}
 `r fa(name = "graduation-cap", fill = "lightgrey", height = "1em")` PhD, Communication and Media Research,\
-University of Zurich, Switzerland, 2019-2022
+University of Zurich, Switzerland, 2019-2023
 
 `r fa(name = "graduation-cap", fill = "lightgrey", height = "1em")` MA, Communication Science,\
 LMU Munich, Germany, 2015-2017

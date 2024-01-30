@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Lara Kobilke, M.A."
+  title: "Lara Kobilke, Dr."
   twitter-card: true
   navbar:
     right:

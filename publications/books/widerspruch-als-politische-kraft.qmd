@@ -1,6 +1,6 @@
 ---
 title: 'Widerspruch als politische Kraft? Folgen des Kontakts mit gegenteiligen Meinungen für die politische Offline- und Online-Partizipation'
-date: '2022-12'
+date: '2023'
 author: L. Kobilke
 image: widerspruch-als-politische-kraft.JPG
 categories: ['book']
