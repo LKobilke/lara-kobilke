@@ -1,7 +1,7 @@
 ---
 title: 'Cross-cutting exposure'
 subtitle: ""
-date: 'in press'
+date: '2025'
 author: L. Kobilke
 categories: ['chapter']
 description: ' In A. Nai, M. Grömping, & D. S. Wirz (Eds.), Encyclopedia of Political Communication. Edward Elgar Publishing'
@@ -11,3 +11,5 @@ execute:
 editor_options: 
   chunk_output_type: console
 ---
+
+Click [here](https://reaktanz.ifkw.lmu.de/wp-content/uploads/2024/10/CrossCuttingExposure_Kobilke.pdf) to download the preprint.

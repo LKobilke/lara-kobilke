@@ -12,5 +12,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-## The monograph will be accesible via ZORA. Contact me for a preprint. ##
+## The monograph is accesible via the Zurich Open Repository: https://www.zora.uzh.ch/id/eprint/252651/ .
+Contact me is you need access. ##
 

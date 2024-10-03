@@ -1,0 +1,17 @@
+---
+title: 'Understanding youth participation in social media challenges: A scoping review of definitions, typologies, and theoretical perspectives'
+subtitle: "https://doi.org/10.1016/j.chb.2024.108265"
+date: '2024-08'
+author: L. Kobilke, A. Markiewitz
+image: SMCs_typology.PNG
+categories: ['peer-reviewed article']
+description: 'Computers in Human Behavior'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+## Find the paper: [here](https://www.sciencedirect.com/science/article/pii/S074756322400133X) ##
+

@@ -1,0 +1,17 @@
+---
+title: 'Challenge accepted: Welche Challenges sich auf TikTok verbreiten und wie Kinder und Jugendliche sie wahrnehmen'
+subtitle: "https://www.medienanstalt-nrw.de/fileadmin/user_upload/Bericht_TikTokChallenges_LFMNRW.pdf"
+date: '2024-02'
+author: L. Kobilke, A. Markiewitz
+# image: viewpoint-diversity.JPG
+categories: ['report']
+description: 'Landesanstalt für Medien NRW'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+## Find the study: [here](https://www.medienanstalt-nrw.de/fileadmin/user_upload/Bericht_TikTokChallenges_LFMNRW.pdf) ##
+

@@ -10,8 +10,12 @@ library(fontawesome)
 
 ::: {#hero-heading}
 `r fa(name = "briefcase", fill = "lightgrey", height = "1em")` LMU Munich, Research Assistant,  
+Dep. of Computational Communication Research,  
+Prof. Mario Haim, 2024-04 to present
+
+`r fa(name = "briefcase", fill = "lightgrey", height = "1em")` LMU Munich, Research Assistant,  
 Dep. of Political Communication,  
-Prof. Carsten Reinemann, 2022-04 to present
+Prof. Carsten Reinemann, 2022-04 to 2024-04
 
 `r fa(name = "briefcase", fill = "lightgrey", height = "1em")` LMU Munich, Substitute for Dr. Julian Unkel,  
 Dep. of Empirical Communication Science,  
