@@ -1,0 +1,13 @@
+---
+title: 'Constructing a Climate of Compliance - Understanding Reactance to Pro-Environmental Messages'
+subtitle: "69th annual conference of the German Communication Association (DGPuK), Erfurt, Germany"
+date: '2024-03-14'
+author: K. Hajek, L. Kobilke, M. Krug
+# image: drag-glamazons.JPG
+categories: ['presentations']
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---

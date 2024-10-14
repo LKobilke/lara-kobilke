@@ -1,0 +1,13 @@
+---
+title: 'Exploring Identity Expression and Political Mobilization on TikTok Through the “Put a Finger Down” Challenge'
+subtitle: "Gemeinsame Jahrestagung der Fachgruppe Kommunikation und Politik (DGPuK), des Arbeitskreises Politik und Kommunikation (DVPW) und der Fachgruppe Politische Kommunikation (SGKM), Bern, Switzerland"
+date: '2024-02-07'
+author: L. Kobilke
+# image: drag-glamazons.JPG
+categories: ['presentations']
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---

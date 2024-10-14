@@ -1,0 +1,13 @@
+---
+title: '“Take back control!“ Measuring Psychological Reactance as a Mobilizing Force for Collective Action'
+subtitle: "74rd Annual Meeting of the International Communication Association, Gold Coast, Australia"
+date: '2024-06-22'
+author: L. Kobilke, K. Hajek, M. Krug
+# image: drag-glamazons.JPG
+categories: ['presentations']
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---

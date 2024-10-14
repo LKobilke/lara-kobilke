@@ -1,0 +1,13 @@
+---
+title: 'Sing-alongs, dance battles, and self-harm: Exploring the spectrum of social media challenges on TikTok through manual content analysis'
+subtitle: "10th European Communication Conference (ECC), Ljubljana, Slovenia"
+date: '2024-09-25'
+author: L. Kobilke, A. Markiewitz
+# image: drag-glamazons.JPG
+categories: ['presentations']
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---

@@ -19,11 +19,19 @@
   {
     "listing": "/Presentations.html",
     "items": [
+      "/presentations/SMC-contentanalysis-ECREA.html",
+      "/presentations/measurement-reactance-development-DGPs.html",
+      "/presentations/take-back-control-ICA.html",
+      "/presentations/SMC-litreview-ICA.html",
+      "/presentations/climate-of-compliance-ICA.html",
+      "/presentations/climate-of-compliance-DGPuK.html",
+      "/presentations/SMCs-Quali-DGPuK-PolKom.html",
+      "/presentations/measurement-reactance-development-DGPuK-Methoden.html",
       "/presentations/blaming-nato-EPSA.html",
       "/presentations/reprting-SML-ICA.html",
       "/presentations/eco-emotions-ICA.html",
       "/presentations/fuel-to-flames-ICA.html",
-      "/presentations/terror-or-no-terror.html",
+      "/presentations/terror-or-no-terror-DGPuK-Methoden.html",
       "/presentations/reporting-SML.html",
       "/presentations/alternative-media-use.html",
       "/presentations/cross-cutting-exposure.html",
@@ -43,6 +51,7 @@
   {
     "listing": "/Publications2.html",
     "items": [
+      "/publications/peer-reviewed/review-smcs.html",
       "/publications/peer-reviewed/blaming-nato.html",
       "/publications/peer-reviewed/viewpoint-diversity.html",
       "/publications/peer-reviewed/momo-challenge.html",

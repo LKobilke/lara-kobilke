@@ -1,0 +1,13 @@
+---
+title: 'A Multidimensional Measure for Psychological State Reactance'
+subtitle: "53rd DGPs Congress, Vienna, Austria"
+date: '2024-09-17'
+author: K. Hajek, L. Kobilke, M. Krug
+# image: drag-glamazons.JPG
+categories: ['presentations']
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---

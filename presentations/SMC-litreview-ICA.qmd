@@ -1,0 +1,13 @@
+---
+title: 'Understanding Youth Participation in Social Media Challenges: A Systematic Review of Definitions, Typologies, and Theoretical Perspectives'
+subtitle: "74rd Annual Meeting of the International Communication Association, Gold Coast, Australia"
+date: '2024-06-22'
+author: L. Kobilke, A. Markiewitz
+# image: drag-glamazons.JPG
+categories: ['presentations']
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---

@@ -1,0 +1,13 @@
+---
+title: 'Development of a Multidimensional State Reactance Scale for Communication Research'
+subtitle: "Jahrestagung der Fachgruppe Methoden der DGPuK, Potsdam, Germany"
+date: '2023-09-27'
+author: L. Kobilke, K. Hajek, M. Krug
+# image: drag-glamazons.JPG
+categories: ['presentations']
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
