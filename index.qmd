@@ -3,6 +3,7 @@ title: "Lara Kobilke, PhD"
 description: "Political Communication Researcher, LMU Munich"
 image: Photo_Kobilke.jpg
 fontsize: 16pt
+toc: false
 about: 
   template: trestles
   image-shape: round

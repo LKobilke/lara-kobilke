@@ -1,0 +1,74 @@
+---
+title: "Current Theses For Students"
+# image: teaching.PNG
+fontsize: 14pt
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 13em
+---
+
+```{r, include=TRUE, echo=FALSE}
+library(fontawesome)
+```
+
+## Supervision of Theses
+
+I regularly supervise theses at the bachelor's and master's level. Most theses are written in German. However, I am very happy to supervise theses written in English as well. For this reason, the descriptions of the topics on this webpage are provided in German and English.
+
+Each thesis is supervised individually, and I support students in developing independent, well-founded, and exciting scientific works. The topics listed below are examples of possible theses I can supervise.
+
+## Themenvorschläge für Abschlussarbeiten
+
+### 1. Berichterstattung über Social Media Challenges – Eine quantitative Inhaltsanalyse nach Entman (BA / MA) {#berichterstattung-social-media-challenges}
+
+Diese Bachelorarbeit untersucht die mediale Darstellung von Social Media Challenges mithilfe des Framing-Ansatzes nach Entman (1993). Ziel ist es, systematisch zu analysieren, wie journalistische Artikel SMCs framen, welche Probleme definiert, Ursachen zugewiesen, Bewertungen vorgenommen und Handlungsempfehlungen formuliert werden.
+
+This bachelor's thesis examines the media representation of social media challenges using Entman's (1993) framing approach. The aim is to systematically analyze how journalistic articles frame SMCs, including which problems are defined, causes attributed, evaluations made, and recommendations for action formulated.
+
+### 2. Fördern traditionelle Medien gefährliche Social Media Challenges? Eine Zeitverlaufsanalyse zur HotChip Challenge (BA) {#hotchip-challenge-medien}
+
+Diese Bachelorarbeit untersucht, ob und wie traditionelle Medien zur Verbreitung gefährlicher Social Media Challenges beitragen. Am Beispiel der „HotChip Challenge" wird analysiert, wie die Berichterstattung in traditionellen Medien (z. B. Zeitungen) mit der zeitlichen Dynamik von TikTok-Videos zur Challenge korreliert. Ziel ist es, zu verstehen, ob traditionelle Medien durch ihre Berichterstattung die Popularität solcher Challenges möglicherweise verstärken, anstatt nur darüber zu informieren oder zu warnen.
+
+This bachelor's thesis examines whether and how traditional media contribute to the spread of dangerous social media challenges. Using the example of the "HotChip Challenge," it analyzes how reporting in traditional media (e.g., newspapers) correlates with the temporal dynamics of TikTok videos related to the challenge. The aim is to understand whether traditional media, through their reporting, may potentially amplify the popularity of such challenges rather than merely informing or warning about them.
+
+### 3. Responsible Reporting on Social Media Challenges – Qualitative Leitfadeninterviews mit Journalist:innen (BA / MA) {#responsible-reporting-smcs}
+
+Diese Bachelorarbeit leitet Prinzipien und Praktiken verantwortungsvoller Berichterstattung über SMCs basierend auf bestehenden Richtlinien wie "Responsible Reporting on Suicides" ab. Anschließend werden Journalist:innen befragt, inwieweit sie diese bereits in ihrer Berichterstattung umsetzen udnw o sie Problemfelder für die Umsetzung sehen. Der Schwerpunkt der Arbeit liegt auf der Durchführung qualitativer Leitfadeninterviews mit Journalist:innen, die über SMCs berichtet haben. Ziel ist es, die Perspektiven, Entscheidungsprozesse und ethischen Überlegungen zu verstehen, um daraus konkrete Empfehlungen für eine verantwortungsvolle und präventive Berichterstattung über Social Media Trends zu entwickeln, die auch realistisch umsetzbar sind.
+
+This bachelor's thesis derives principles and practices for responsible reporting on social media challenges (SMCs) based on existing guidelines such as "Responsible Reporting on Suicides." Subsequently, journalists are interviewed to assess the extent to which they already apply these principles in their reporting and to identify any challenges they encounter in doing so. The focus of the thesis is on conducting qualitative guided interviews with journalists who have reported on SMCs. The aim is to understand their perspectives, decision-making processes, and ethical considerations, in order to develop concrete, realistic recommendations for responsible and preventive reporting on social media trends.
+
+### 4. Narrative Techniken in True-Crime-Podcasts – Eine inhaltsanalytische Untersuchung (BA / MA) {#narrative-techniken-true-crime}
+
+Die Arbeit zielt darauf ab, eine inhaltsanalytische Untersuchung von True-Crime-Podcasts durchzuführen, um zu analysieren, wie narrative Techniken wie Spannungsaufbau oder Emotionalisierung in den Medienprodukten umgesetzt werden. Im Fokus steht die Frage, ob und wie diese Techniken potenziell Copingstrategien der Hörenden beeinflussen können. Aufbauend auf vorhandenen Erkenntnissen zur Podcast-Rezeption und -Produktion soll geprüft werden, ob die von den Podcastenden beschriebenen Erzähltechniken tatsächlich in den Inhalten der Podcasts wiederzufinden sind. Die Analyse konzentriert sich ausschließlich auf das Medienprodukt und untersucht keine direkten Medienwirkungen. Allerdings sollen auf Basis der Ergebnisse Einschätzungen darüber vorgenommen werden, welche Wirkungen durch die narrativen Techniken möglicherweise ausgelöst werden könnten.
+
+The aim of this thesis is to conduct a content analysis of true crime podcasts to examine how narrative techniques, such as building suspense or evoking emotions, are implemented in these media products. The focus is on exploring whether and how these techniques may potentially influence listeners' coping strategies. Building on existing research on podcast reception and production, the study seeks to determine whether the narrative techniques described by podcast creators are indeed reflected in the content of their podcasts. The analysis is limited to the media product itself and does not investigate direct media effects. However, based on the results, assessments will be made regarding the potential effects that these narrative techniques might trigger.
+
+### 5. Psychologische Reaktanz in politischen Face-to-Face-Streitgesprächen (BA) {#psychologische-reaktanz-gespraeche}
+
+Diese Masterarbeit nutzt das Datenmaterial von ca. 20 aufgezeichneten und transkribierten politischen Streitgesprächen zwischen politisch Andersdenkenden, um das Entstehen von Reaktanz in Face-to-Face-Gesprächen zu verstehen. Durch eine qualitative Diskursanalyse soll die Masterarbeit prüfen, inwieweit unterschiedliche Formen des Reaktanzprozess im Gespräch sichtbar werden und wie diese den Gesprächsverlauf beeinflussen.
+
+This master's thesis uses data from approximately 20 recorded and transcribed political debates between individuals with opposing political views to understand the emergence of reactance in face-to-face conversations. Through qualitative discourse analysis, the thesis aims to examine the extent to which different forms of the reactance process become visible during the conversation and how they influence the course of the discussion.
+
+### 6. Erweiterung des Verständnisses digitaler Reaktanz – Anwendung, Überprüfung und Erweiterung einer Typologie schriftlicher Reaktanz (BA / MA) {#digitale-reaktanz}
+
+In dieser Bachelor- oder Masterarbeit soll eine Typologie schriftlicher Reaktanz untersucht werden, die erstmals Reaktionen auf Freiheitseinschränkungen in digitalen Räumen systematisch erfasst. Ziel ist es, die Typologie zu validieren, auf andere Plattformen und Kommunikationsformen anzuwenden sowie mögliche Erweiterungen der Theorie zu identifizieren. Durch qualitative oder quantitative Inhaltsanalysen soll untersucht werden, wie Reaktanz in unterschiedlichen digitalen Kontexten ausgedrückt werden und welche Strategien für eine effektivere Ansprache von Zielgruppen entwickelt werden können. Mögliche Daten zur Anwendung können für die Arbeit bereitgestellt werden (z.B. Instagram-Kommentare zur Klimakommunikation).
+
+This bachelor's or master's thesis aims to investigate a typology of written reactance that systematically captures responses to restrictions of freedom in digital spaces for the first time. The objective is to validate the typology, apply it to other platforms and communication forms, and identify potential theoretical extensions. Using qualitative or quantitative content analyses, the thesis will explore how reactance is expressed in different digital contexts and what strategies can be developed for more effective audience engagement. Possible datasets for application (e.g., Instagram comments on climate communication) can be provided for the research.
+
+### 7. Reaktante Mediennutzer:innen – Zusammenhänge zwischen Mediennutzung, Reaktanzprozess und politischer Partizipation (MA) {#mediennutzung-und-reaktanz}
+
+Basierend auf einer Sekundäranalyse von drei Datensätzen mit wiederholten Experimenten soll diese Masterarbeit untersuchen, wie Mediennutzung, der Reaktanzprozess und politische Partizipation miteinander verknüpft sind. In einer ersten explorativen Studie werden explorativ-quantitative Verfahren verwendet (z.B. Korrelationsanalysen), um Zusammenhänge zu identifizieren und darauf aufbauend eine Theoriegebilde sowie konkrete Hypothesen zu entwickeln. Anschließend werden mithilfe der zwei Folgestudien die gebildeten Hypothesen getestet (z.B. mittels Regressionsanalysen), um das gebildete Theoriegebäude zu prüfen.
+
+### 8. Gruppenreaktanz und Reaktanz in Gruppen – Ein Scoping Review (BA / MA) {#gruppenreaktanz-review}
+
+Diese Bachelor- oder Masterarbeit widmet sich der systematischen Untersuchung des aktuellen Forschungsstands zu Gruppenreaktanz und Reaktanz innerhalb von Gruppen. Ziel ist es, durch ein Scoping Review zentrale Theorien, Konzepte und empirische Erkenntnisse zu erfassen, die beschreiben, wie Reaktanz als sozialer Prozess in Gruppendynamiken entsteht und sich entwickelt. Der Fokus liegt dabei auf kollektiven Bewertungsprozessen, Konflikteskalation und -lösung sowie der Rolle von emotionaler Ansteckung und sozialem Einfluss. Die Arbeit bietet eine Grundlage für zukünftige Forschung und vertieft das Verständnis, wie Gruppen auf wahrgenommene Bedrohungen der Autonomie reagieren und wie diese Prozesse gesteuert werden können, um konstruktive Dialoge zu fördern.
+
+This bachelor's or master's thesis focuses on the systematic examination of the current state of research on group reactance and reactance within groups. The aim is to use a scoping review to identify key theories, concepts, and empirical findings that describe how reactance emerges and develops as a social process within group dynamics. The focus lies on collective evaluation processes, conflict escalation and resolution, as well as the roles of emotional contagion and social influence. The thesis provides a foundation for future research and deepens the understanding of how groups respond to perceived threats to autonomy and how these processes can be managed to foster constructive dialogues.
+
+### 9. Normen als Widerstandsmotivator in einer aufgeheizten demokratischen Öffentlichkeit (BA / MA) {#normen-und-widerstand}
+
+Normative und soziale Zwänge erweisen sich in der demokratischen Gegenwart und einer zunehmend aufgeheizten Öffentlichkeit als zentrale Widerstandsmotivatoren. Die Arbeit untersucht systematisch, warum und unter welchen Bedingungen Menschen Widerstand gegen die Kommunikation von Normativem leisten. Besonderes Augenmerk wird dabei auf die Abgrenzung zu verwandten Phänomenen wie sozialem Druck, Moral, Meinungs- und Redefreiheit gelegt. Im Mittelpunkt stehen die psychologischen und kommunikativen Mechanismen, durch die Normen als Einschränkung wahrgenommen werden und Reaktanz auslösen. Die Untersuchung bietet eine Grundlage für zukünftige Forschung zur Gestaltung und Kommunikation von Normen mit dem Ziel, Akzeptanz zu fördern und widerstandsarme Kommunikation zu ermöglichen. Im Rahmen einer Masterarbeit können zusätzlich Daten aus 20 Leitfadeninterviews verwendet werden, um normativen Druck in Gesprächen zu identifizieren und zu kategorisieren.
+
+Normative and social constraints have proven to be central motivators of resistance in contemporary democracies and an increasingly polarized public sphere. This thesis systematically examines why and under what conditions people resist the communication of normative content. Particular attention is given to distinguishing this resistance from related phenomena such as social pressure, morality, and freedom of opinion and speech. The focus lies on the psychological and communicative mechanisms through which norms are perceived as restrictions and trigger reactance. The study provides a foundation for future research on the design and communication of norms, aiming to foster acceptance and enable low-resistance communication. As part of a master's thesis, data from 20 guided interviews can be utilized to identify and categorize normative pressure in conversations.
