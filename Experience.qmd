@@ -7,32 +7,39 @@ fontsize: 16pt
 library(fontawesome)
 ```
 
+:::: {#hero-heading}
+<div>
 
-::: {#hero-heading}
-`r fa(name = "briefcase", fill = "lightgrey", height = "1em")` LMU Munich, Research Assistant,  
-Dep. of Computational Communication Research,  
-Prof. Mario Haim, 2024-04 to present
+`r fa(name = "briefcase", fill = "lightgrey", height = "1em")` HMTM Hannover, Visiting Professor,\
+Dep. of Journalism and Communcation,\
+2025-10 to present
 
-`r fa(name = "briefcase", fill = "lightgrey", height = "1em")` LMU Munich, Research Assistant,  
-Dep. of Political Communication,  
+</div>
+
+`r fa(name = "briefcase", fill = "lightgrey", height = "1em")` LMU Munich, Research Assistant,\
+Dep. of Computational Communication Research,\
+Prof. Mario Haim, 2024-04 to 2025-10
+
+`r fa(name = "briefcase", fill = "lightgrey", height = "1em")` LMU Munich, Research Assistant,\
+Dep. of Political Communication,\
 Prof. Carsten Reinemann, 2022-04 to 2024-04
 
-`r fa(name = "briefcase", fill = "lightgrey", height = "1em")` LMU Munich, Substitute for Dr. Julian Unkel,  
-Dep. of Empirical Communication Science,  
+`r fa(name = "briefcase", fill = "lightgrey", height = "1em")` LMU Munich, Substitute for Dr. Julian Unkel,\
+Dep. of Empirical Communication Science,\
 Prof. Hans-Bernd Brosius, 2022-04 to 2022-10
 
-`r fa(name = "briefcase", fill = "lightgrey", height = "1em")` University of Zurich, Research Assistant,  
-Dep. of International & Comp. Media Research,  
+`r fa(name = "briefcase", fill = "lightgrey", height = "1em")` University of Zurich, Research Assistant,\
+Dep. of International & Comp. Media Research,\
 Prof. Frank Esser, 2021-03 to 2022-03
 
-`r fa(name = "briefcase", fill = "lightgrey", height = "1em")` University of Zurich, Research Assistant,  
-Dep. of Political Communication,  
+`r fa(name = "briefcase", fill = "lightgrey", height = "1em")` University of Zurich, Research Assistant,\
+Dep. of Political Communication,\
 Prof. Thomas Zerback, 2019-07 to 2021-02
 
-`r fa(name = "briefcase", fill = "lightgrey", height = "1em")` LMU Munich, Research Assistant,  
-Dep. of Political Communication,  
+`r fa(name = "briefcase", fill = "lightgrey", height = "1em")` LMU Munich, Research Assistant,\
+Dep. of Political Communication,\
 Prof. Carsten Reinemann, 2018-02 to 2019-06
 
-`r fa(name = "briefcase", fill = "lightgrey", height = "1em")` Munich Digital Institute, Student Research Assistant,  
+`r fa(name = "briefcase", fill = "lightgrey", height = "1em")` Munich Digital Institute, Student Research Assistant,\
 CEO Carsten Henne, 2015-04 to 2017-04
-:::
+::::
